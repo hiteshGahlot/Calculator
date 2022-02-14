@@ -1,0 +1,43 @@
+.container{
+    text-align: center;
+    margin-top: 24px;  
+}
+table{
+    margin: auto;
+    border: 5px solid rgb(243, 85, 85);
+}
+td{
+    border: 2px solid black;
+}
+input{
+    margin: auto;
+    border-radius: 21px;
+    font-size: 34px;
+    border: 5px solid black;
+    height: 100px;
+    background-color: rgb(227, 250, 249);
+}
+input:hover{
+    background-color: bisque;
+}
+button:hover{
+    background-color: chartreuse;
+}
+button{
+    font-size: 24px;
+    background-color: rgb(127, 255, 148);
+    width: 102px;
+    height: 58px;
+}
+.calculator{
+    display :inline-block;
+}
+body{
+    opacity: 1;
+    background:  url("https://cdn.picpng.com/calculator/calculator-hd-37430.png"); 
+}
+h1{
+    font-size: xx-large;
+    font-style: italic;
+    color: blue;
+}
